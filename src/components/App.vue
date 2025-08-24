@@ -21,23 +21,21 @@
                 XXX
             </DescriptionParagraph>
             <DescriptionParagraph title="联系方式">
-                邮箱：<OutLink href="mailto:3161880837@qq.com">3161880837@qq.com</OutLink><br>
-                QQ：<OutLink @click="copy('3161880837')">3161880837</OutLink><br>
+                邮箱：<OutLink href="mailto:3161880837@qq.com">XXX@qq.com</OutLink><br>
+                QQ：<OutLink @click="copy('3161880837')">XXX</OutLink><br>
                 <OutLink href="https://space.bilibili.com/649063815">哔哩哔哩</OutLink>
                 <OutLink class="link-2" href="https://github.com/Rundll86">Github</OutLink>
             </DescriptionParagraph>
             <HorizontalLine />
             <BigTitle>development</BigTitle><br>
-            <ProjectCard website="https://github.com/Rundll86/script-editor-2" image="se2.jpg" title="ScriptEditor"
-                tech-stack="Vue" category="工具">
-                基于界面的AVG游戏剧本设计器，让不会写代码的文案师也能组织剧本。
+            <ProjectCard title="XXXA" tech-stack="Vue" category="工具">
+                description
             </ProjectCard>
-            <ProjectCard website="fs-context" image="fsc.jpg" title="FS-Context" tech-stack="TS" category="开发框架">
-                一个开发上下文，使用TS类型提示和全新的脚手架开发某软件的通用拓展。
+            <ProjectCard title="XXXB" tech-stack="TS" category="开发框架">
+                description
             </ProjectCard>
-            <ProjectCard website="https://github.com/Rundll86/ModLoaderNew" image="mln.jpg" title="ModLoaderNew"
-                tech-stack="Python" category="游戏">
-                将自定义模型注入原神客户端，基于GIMI。封装更多工具，可能违法。
+            <ProjectCard title="XXXC" tech-stack="Python" category="游戏">
+                description
             </ProjectCard>
             <HorizontalLine />
             <BigTitle>友情链接</BigTitle><br>
