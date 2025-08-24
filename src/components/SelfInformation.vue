@@ -1,16 +1,14 @@
 <template>
     <div class="info">
         <AvatarImage />
-        <NameLabel>陨落基围虾</NameLabel>
+        <NameLabel>TangDo158</NameLabel>
         <div>
-            <BlockLabel>完美主义</BlockLabel>
-            <BlockLabel>Web</BlockLabel>
-            <BlockLabel>桌面</BlockLabel>
-            <BlockLabel>游戏</BlockLabel>
+            <BlockLabel>摄影</BlockLabel>
+            <BlockLabel>平面设计</BlockLabel>
+            <BlockLabel>FPS重度爱好者</BlockLabel>
             <BlockLabel>福瑞控</BlockLabel>
-            <BlockLabel>SolariiX</BlockLabel>
         </div>
-        <CatcherText>好看的皮囊千篇一律，有趣的灵魂万里挑一</CatcherText>
+        <CatcherText>也许是情绪不够稳定，不会Sc。</CatcherText>
     </div>
 </template>
 <script setup lang="ts">
